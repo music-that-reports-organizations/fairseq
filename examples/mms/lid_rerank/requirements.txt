@@ -8,3 +8,4 @@ numpy<=1.26.4
 librosa
 ninja
 editdistance
+requests>=2.32.4 # not directly required, pinned by Snyk to avoid a vulnerability
